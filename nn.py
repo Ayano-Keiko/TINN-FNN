@@ -1,10 +1,3 @@
-'''
-Sicheng Zhong
-Data 527: Perdictive Modeling
-April 12th
-Spring 2025
-'''
-
 import json
 import os
 import random
