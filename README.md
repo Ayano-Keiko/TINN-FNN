@@ -33,3 +33,10 @@ you can run below commend for seperate data extraction
 ```shell
 python ./data_prepocess.py
 ```
+
+## reference
+- https://github.com/glouw/tinn<br/>
+- MSE Lim Bryan and Zohren Stefan 2021Time-series forecasting with deep learning: a surveyPhil. Trans. R. Soc. A.37920200209
+http://doi.org/10.1098/rsta.2020.0209<br/>
+- RMSE Chai, Tianfeng, and Roland R. Draxler. "Root mean square error (RMSE) or mean absolute error (MAE)." Geoscientific model development discussions 7.1 (2014): 1525-1534.<br/>
+- Activation: M. M. Lau and K. Hann Lim, "Review of Adaptive Activation Function in Deep Neural Network," 2018 IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES), Sarawak, Malaysia, 2018, pp. 686-690, doi: 10.1109/IECBES.2018.8626714.<br/>
