@@ -26,7 +26,7 @@ python -m venv .venv
 
 4. run the code
 ```shell
-python ./NNModelFlight.py
+python ./main.py
 ```
 
 you can run below commend for seperate data extraction
