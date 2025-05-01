@@ -1,9 +1,3 @@
-'''
-Sicheng Zhong
-Data 527: Perdictive Modeling
-Spring 2025
-'''
-
 import numpy
 import pandas
 from sklearn.preprocessing import MinMaxScaler
