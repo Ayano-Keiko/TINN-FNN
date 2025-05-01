@@ -1,5 +1,6 @@
 # Neural Network on flight prediction
 Neural Network for flights pitch prediction<br>
+![Showing](./ScreenShoot/Demo.png)
 
 ## Get Start
 Firstly, run Data Propocessing script<br/>
