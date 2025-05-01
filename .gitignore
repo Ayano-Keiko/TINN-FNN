@@ -1,0 +1,12 @@
+.vs
+FeedForw.bce8ab94/
+x64/
+FeedForwardNerualNetwork.sln
+FeedForwardNerualNetwork.vcxproj
+FeedForwardNerualNetwork.vcxproj.filters
+FeedForwardNerualNetwork.vcxproj.user
+*.o
+a.out
+
+.venv/
+__pycache__/
