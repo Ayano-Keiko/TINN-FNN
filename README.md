@@ -28,7 +28,7 @@ python -m venv .venv
  pip install -r requirements.txt
 ```
 
-4. run the code
+3. run the code
 ```shell
 python ./main.py
 ```
