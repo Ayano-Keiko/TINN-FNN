@@ -4,7 +4,6 @@ Neural Network for flights pitch prediction<br>
 
 ## Data
 The dataset is space speperated data. ` data_prepocess.py ` is used to converted the data into correct format.<br/>
-![data](./ScreenShoot/data.png)
 
 ## Get Start
 Firstly, run Data Propocessing script<br/>
