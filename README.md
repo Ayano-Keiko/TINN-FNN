@@ -37,7 +37,7 @@ you can run below commend for seperate data extraction
 python ./data_prepocess.py
 ```
 
-## reference
+## Reference
 - https://github.com/glouw/tinn<br/>
 - MSE Lim Bryan and Zohren Stefan 2021Time-series forecasting with deep learning: a surveyPhil. Trans. R. Soc. A.37920200209
 http://doi.org/10.1098/rsta.2020.0209<br/>
