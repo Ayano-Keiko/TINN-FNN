@@ -16,25 +16,25 @@ And put the dataset in the same directory as the source code<br>
 python -m venv .venv
 ```
 
-```shell
-# if ussing global environment, skip below 2 lines
- .\.venv\Scripts\activate # windows
- # .\.venv\bin\activate  # linux
-```
-
 2. Install required package
 ```shell
  pip install -r requirements.txt
 ```
 
 3. run the code
-```shell
-python ./main.py
-```
-
-you can run below commend for seperate data extraction
+run the extraction script for get required CSV data file<br/>
 ```shell
 python ./data_prepocess.py
+```
+
+compile the executable file
+```shell
+make
+```
+
+then run the file
+```shell
+./main
 ```
 
 ## Reference

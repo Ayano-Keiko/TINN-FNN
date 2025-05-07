@@ -83,7 +83,7 @@ int main()
 
     std::vector<double> RMSE = net.getRMSE();
 
-    
+    /*
     FILE* log_fp = fopen("./logs.txt", "w");
     for (double loss : RMSE)
     {
@@ -91,7 +91,7 @@ int main()
         std::fprintf(log_fp, "%f\n", loss);
     }
     std::fclose(log_fp);
-    
+    */
     
     return status;
 }
