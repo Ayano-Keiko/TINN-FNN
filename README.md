@@ -21,18 +21,18 @@ python -m venv .venv
  pip install -r requirements.txt
 ```
 
-3. run the code
-run the extraction script for get required CSV data file<br/>
+3. Run the code
+Run the extraction script for get required CSV data file<br/>
 ```shell
 python ./data_prepocess.py
 ```
 
-compile the executable file
+Compile the executable file
 ```shell
 make
 ```
 
-then run the file
+Then run the file
 ```shell
 ./main
 ```
