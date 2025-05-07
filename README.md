@@ -6,10 +6,6 @@ Neural Network for flights pitch prediction<br>
 The dataset is space speperated data. ` data_prepocess.py ` is used to converted the data into correct format.<br/>
 
 ## Get Start
-Firstly, run Data Propocessing script<br/>
-Keep ` data_prepocess.py `, ` main.py ` and ` nn.py ` in one directory<br>
-and get into the directory<br>
-And put the dataset in the same directory as the source code<br>
 
 1. Using virtual environment(optional but recommended)<br>
 ```shell
