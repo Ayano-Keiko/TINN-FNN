@@ -21,7 +21,7 @@ int main()
     std::vector<double> targets;
 
     std::printf("DATA LOADING......\n");
-    io::CSVReader<5> fp("./prepocess.csv");
+    io::CSVReader<5> fp("./data/prepocess.csv");
     
     // read training value
     fp.read_header(io::ignore_extra_column, "altitude", "indicated_airspeed", "roll", "pitch", "pitch(t - 1)");
