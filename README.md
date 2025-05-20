@@ -1,5 +1,5 @@
 # Neural Network on flight prediction
-Neural Network for flights pitch prediction<br>
+Neural Network for flights pitch prediction. A C++ re-implementation for regression task from TINN library.<br>
 ![Showing](./ScreenShoot/Demo.png)
 
 ## Data
