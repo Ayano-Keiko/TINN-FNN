@@ -1,6 +1,6 @@
 # Neural Network on flight prediction
 Neural Network for flights pitch prediction. A C++ re-implementation for regression task from TINN library.<br>
-![Showing](./ScreenShoot/Demo.png)
+![Showing](./demo/Demo.png)
 
 ## Data
 The dataset is space speperated data. ` data_prepocess.py ` is used to converted the data into correct format.<br/>
